@@ -1,4 +1,4 @@
-# FinanceBro
+# FinanceBro (Project Plan)
 # FinanceBro — Intelligent Investing Tutor
 
 Product Requirements Document (PRD)
